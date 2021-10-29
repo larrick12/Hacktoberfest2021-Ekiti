@@ -39,7 +39,7 @@ $(document).ready(() => {
                     location.reload();
                 })
                 return slicedContent = data.slice(0, 8);
-            } else if (window.innerWidth === 571) {
+            } else if (window.innerWidth <= 720) {
                 $(window).on('resize', () => {
                     location.reload();
                 })

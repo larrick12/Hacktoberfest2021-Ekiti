@@ -178,7 +178,7 @@
       "Experience Level in OSS": "Intermediate",
       "Twitter Handle": "@olusure3",
       "GitHub Profile": "https://github.com/OluSure",
-      "Which niche do you like contributing too?": "Documentation and Code"
+      "Which niche do you like contributing too?": "Documentation or Code"
     },
     {
       "Name": "Aman Kumar Choudhary",
@@ -188,6 +188,60 @@
       "Twitter Handle": "@AMANSHADOW102",
       "GitHub Profile": "https://github.com/aman339",
       "Which niche do you like contributing too?": "Documentation/ A bit of frontend"
+    },
+    {
+      "Name": "Blessing Bello",
+      "Nickname": "B.O.B",
+      "Tech Stack": "UI/UX Design ",
+      "Experience Level in OSS": "Beginner",
+      "Twitter Handle": "@oritselaye",
+      "GitHub Profile": "https://github.com/oritselaye",
+      "Which niche do you like contributing too?": "Documentation"
+    },
+    {
+      "Name": "Bartholomew Samuel Edafe",
+      "Nickname": "pzamuel",
+      "Tech Stack": "Nil",
+      "Experience Level in OSS": "Beginner",
+      "Twitter Handle": "Nil",
+      "GitHub Profile": "https://github.com/ghozt999",
+      "Which niche do you like contributing too?": "Documentation"
+    },
+    {
+      "Name": "Nikhil Taneja",
+      "Nickname": "Nikhil98",
+      "Tech Stack": "Full Stack Java Development",
+      "Experience Level in OSS": "Beginner",
+      "Twitter Handle": "NikhilT98",
+      "GitHub Profile": "https://github.com/NikhilTaneja98",
+      "Which niche do you like contributing too?": "Java Backend"
+    },
+    { 
+      "Name": "Tiamiyu Gideon Adeniyi", 
+      "Nickname": "Giddy", 
+      "Tech Stack": "UI/Ux", 
+      "Experience Level in OSS": "Beginner",
+      "Twitter Handle": "@giddy",
+      "GitHub Profile": "https://github.com/GiddyTech",
+      "Which niche do you like contributing too?": "Design" 
+    },
+    { 
+      "Name": "Ejilola Hammed Ejitomiwa", 
+      "Nickname": "GeoDeveloper", 
+      "Tech Stack": "Fullstack Web and Mobile Developer", 
+      "Experience Level in OSS": "Advanced", 
+      "Twitter Handle": "@ejilolahmed", 
+      "GitHub Profile": "https://github.com/EjilolaHammedEjitomiwa",
+      "Which niche do you like contributing too?": "Documentation or code" 
+    },
+    {
+      "Name": "Jonathan Cardoz",
+      "Nickname": "jcardoz",
+      "Tech Stack": "Frontend",
+      "Experience Level in OSS": "Intermediate",
+      "Twitter Handle": "@jcardoz",
+      "GitHub Profile": "https://github.com/jcardoz",
+      "Which niche do you like contributing too?": "Frontend, Styling and Coding standards"
     }
   ]
 }
